@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @simplelike1
+- 👋 Hi, I’m @simplelike1, aka John J. Sung. This is my "tech" account where I explore technical, philosophical, linguistic topics as a hobbie. 
 - 👀 I’m interested in making things simple, like the number 1. 
 - 📫 You can reach me on github @simplelike1. You can also checkout my blog on publish0x or medium.com.  
 
